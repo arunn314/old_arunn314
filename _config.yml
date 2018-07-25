@@ -3,18 +3,3 @@ title: Arun Nedunchezhian
 avatar: profile_pic.jpeg
 description: A short description of your site's purpose
 
-footer-links:
-  email: arunn3.14@gmail.com
-  facebook: arunn314
-  github: arunn314
-  linkedin: https://www.linkedin.com/in/arun-nedunchezhian-8346683b/
-  twitter: arunn314
-
-url: https://arunn314.github.io
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
