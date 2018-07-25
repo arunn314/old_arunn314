@@ -10,6 +10,8 @@ footer-links:
   linkedin: https://www.linkedin.com/in/arun-nedunchezhian-8346683b/
   twitter: arunn314
 
+url: https://arunn314.github.io
+
 exclude:
   - Gemfile
   - Gemfile.lock
