@@ -1,6 +1,6 @@
-<h2>About Me:<h2>
+## About Me:
 
-<h3>Education</h3>
+### Education
 MS Computer Science, University of Texas, Austin, 2012.
-BE Computer Science, College of Engineering, Guindy, Anna University, 2010.
 
+BE Computer Science, College of Engineering, Guindy, Anna University, 2010.
