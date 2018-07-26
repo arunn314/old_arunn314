@@ -30,6 +30,10 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        {% if site.twitter_username %}
+         <p class="view"><a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i> Twitter</a></p>
+        {% endif %}
+        
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
